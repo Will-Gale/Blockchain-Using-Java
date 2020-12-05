@@ -1,7 +1,6 @@
 import java.util.Date;
 import java.security.MessageDigest; //provides access to the SHA256 Algorithm
 
-
 public class Block {
     
     public String hash;
