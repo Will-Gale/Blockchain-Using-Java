@@ -2,7 +2,7 @@
 
 Created my own Blockchain in java using hashing and array lists to create blocks of data with unique digital signatures that chain each block together. The Blockchain objects are then displayed in JSON format.
 
-#Dependencies - Import GSON
+# Dependencies - Import GSON
 
 You will need to import GSON which is a library created by google that allows you to convert a Java object to a JSON formatted string.
 
