@@ -11,4 +11,4 @@ You will need to import GSON which is a library created by google that allows yo
 - Made up of individual blocks that store data
 - Has an individual digital signature that links the blocks together
 
-* (Features to add: Mining to validate new blocks, validating data, transactions, signatures, wallets)
+(Features to add: Mining to validate new blocks, validating data, transactions, signatures, wallets)
